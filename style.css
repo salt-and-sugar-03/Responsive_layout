@@ -20,7 +20,7 @@ body {
 .footer {
   display: flex;
   height: 72px;
-    flex:1
+  flex:1;
   background: #eee;
   color: darkmagenta; 
   justify-content: center;
