@@ -9,6 +9,7 @@ body {
 
 .header {
   height: 72px;
+  width: auto;
   font-weight: 900;
   font-size: 32px;
   padding:16px 0px 0px 16px;
@@ -19,6 +20,7 @@ body {
 .footer {
   display: flex;
   height: 72px;
+  width: auto;
   background: #eee;
   color: darkmagenta; 
   justify-content: center;
