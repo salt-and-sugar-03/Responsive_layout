@@ -9,7 +9,7 @@ body {
 
 .header {
   height: 72px;
-  flex:1
+  flex:1;
   font-weight: 900;
   font-size: 32px;
   padding:16px 0px 0px 16px;
